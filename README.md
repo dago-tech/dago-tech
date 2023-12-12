@@ -33,7 +33,7 @@ ____
 _____
 
 
-##### Database
+##### Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="65" height="65"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/>
 
 
@@ -43,7 +43,7 @@ _____
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="65" height="65"/>
 
 
-#### Contacto☕️
+#### Contact me ☕️
 
 <a href="https://www.linkedin.com/in/dgutierrezorozco/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Daniel Gutierrez" height="30" width="40" />LinkedIn</a>
 
