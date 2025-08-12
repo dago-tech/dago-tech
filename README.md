@@ -1,6 +1,6 @@
 ### My name is Daniel Gutierrez 👋
 
-Full-stack web developer 💻 currently seeking employment to enhance my skills and collaborate with a team
+Web developer 💻 currently seeking employment to enhance my skills and collaborate with a team
 
 #### I am currently dedicated to:
 
